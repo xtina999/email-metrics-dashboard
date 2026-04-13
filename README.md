@@ -12,10 +12,6 @@ including sent, open, and click-through rates across different countries.
 - **Click Rate** – share of emails with link clicks
 - **Account Count** – active accounts per day
 
-## 🌍 Insights
-- Compare USA vs UK across key email metrics
-- Year-over-year performance comparison (2022 vs 2023)
-
 ## 🛠 Tools
 - **SQL** – BigQuery (Google Cloud)
 - **Visualization** – Tableau Public
